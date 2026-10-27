@@ -1,0 +1,12 @@
+{
+  "juegos": [
+    {
+      "id": "juego_1",
+      "titulo": "Mi Primer Gran Juego",
+      "version": "1.0",
+      "portada_url": "https://placeholder.com",
+      "zip_url": "https://ejemplo.com",
+      "ejecutable": "MiJuego.exe"
+    }
+  ]
+}
